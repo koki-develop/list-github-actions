@@ -11,6 +11,7 @@
   "dependencies": {
     "@octokit/plugin-paginate-rest": "11.3.3",
     "csv-stringify": "6.5.1",
+    "envalid": "8.0.0",
     "octokit": "4.0.2",
     "yaml": "2.5.1"
   }
