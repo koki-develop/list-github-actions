@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@octokit/plugin-paginate-rest": "11.3.3",
     "octokit": "4.0.2"
   }
 }
