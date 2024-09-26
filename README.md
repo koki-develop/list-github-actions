@@ -1,15 +1,4 @@
-# list-github-actions
-
-To install dependencies:
-
-```bash
-bun install
+```console
+$ bun install
+$ GITHUB_USERNAME=koki-develop GITHUB_TOKEN=$(gh auth token) bun ./index.ts
 ```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.27. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
